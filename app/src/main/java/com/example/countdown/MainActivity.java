@@ -9,7 +9,7 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
 /*
-* 改倒计时适合用于获取验证码，请求等待，一段时间后可再次请求，每一次请求过程中无法请求，必须等本次请求结束
+* 改倒计时适合用于获取验证码，请求等待，一段时间后可再次请求，每一次请求过程中无法请求，必须等本次请求结束....
 * */
 public class MainActivity extends AppCompatActivity {
 
